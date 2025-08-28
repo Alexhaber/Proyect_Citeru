@@ -1,0 +1,6 @@
+@ProyectCiteru_HostAddress = http://localhost:5139
+
+GET {{ProyectCiteru_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
